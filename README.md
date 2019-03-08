@@ -1,7 +1,9 @@
 # Unitary Status Dollar eCoin [USDE]
-http://usd-e.com
 
 ![USDE](http://i62.tinypic.com/sfgtfn.png)
+
+# Seed
+AddNode 45.56.115.51 
 
 ### Specs:
 Total of 1.6Billion USDe
